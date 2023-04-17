@@ -17,8 +17,5 @@
     "constructs": "10.1.156",
     "typescript": "^5.0.4",
     "@tsconfig/node16": "^1.0.3"
-  },
-  "workspaces": [
-    "packages/*"
-  ]
+  }
 }
