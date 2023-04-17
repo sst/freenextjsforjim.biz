@@ -16,7 +16,7 @@ export default {
           stack.stage === "prod"
             ? {
                 domainName: "freenextjsforjim.biz",
-                domainName: "www.freenextjsforjim.biz",
+                domainAlias: "www.freenextjsforjim.biz",
               }
             : undefined,
       });
